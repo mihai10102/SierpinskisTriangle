@@ -1,0 +1,6 @@
+The algorithms:
+	1. Select 3 point to be the vertexes of the triangle
+	2. Draw a point at a random position
+	3. Choose one of the 3 vertexes and draw a point halfway between it and the point drawn at step 2.
+	4. Choose one of the 3 vertexes and draw a point halfway between it and the point drawn at step 3.
+	5. Repeat step 4.
